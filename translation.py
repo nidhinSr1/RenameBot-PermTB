@@ -6,7 +6,7 @@ class Translation(object):
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "CONTACT @princedaitt"
-    DOWNLOAD_START = "Downloading...Give Me Some Time Bruh Join *@Cinemaglitz*😍!!"
+    DOWNLOAD_START = "Downloading...Give Me Some Time Bruh Join *@Cinemaglitz*♥️!!"
     UPLOAD_START = "Hurray... Completed Downloading"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Cinemaglitz 😍**"
