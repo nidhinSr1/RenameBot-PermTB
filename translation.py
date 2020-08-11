@@ -1,7 +1,7 @@
 class Translation(object):
-    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
+    START_TEXT = """ no one gonna help you 😏😏😏"""
 
-<b>Send me any Telegram file and reply to that file with /rename NewName.extn</b>"""
+
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
