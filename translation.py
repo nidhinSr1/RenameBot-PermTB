@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ no one gonna help you 😏😏😏"""
+    START_TEXT = """ [no one](https://telegra.ph/file/3b0e9d77868766eb40858.jpg) gonna help you 😏😏😏"""
 
 
 
