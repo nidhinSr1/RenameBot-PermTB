@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ [no one](https://telegra.ph/file/3b0e9d77868766eb40858.jpg) gonna help you 😏😏😏"""
+    START_TEXT = """Sorry!! You're Not An Admin in Cinema Factory!"""
 
 
 
@@ -20,7 +20,12 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """😅😅😅"""
+    HELP_USER = """Hei, Follow These steps..
+    
+▪️ Send file
+▪️ Send custom Thumbnail
+▪️ Reply the file - /rename New Name.mkv
+"""
     
 
 
